@@ -1,7 +1,7 @@
 def al_khwarizmi(x,y):
 
-    if y==1:
-        return x*y
+    if y==0:
+        return 0
 
     result=0
     if y%2==0:
