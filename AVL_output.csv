@@ -1,0 +1,25 @@
+Adding Element 3 $[3, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf]$
+
+Adding Element 14 $[3, inf, 14, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf]$[3, inf, 14, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf]$
+
+Adding Element 27 $[3, inf, 14, inf, inf, inf, 27, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf]$[14, 3, 27, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf]$
+
+Adding Element 31 $[14, 3, 27, inf, inf, inf, 31, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf]$[14, 3, 27, inf, inf, inf, 31, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf]$
+
+Adding Element 39 $[14, 3, 27, inf, inf, inf, 31, inf, inf, inf, inf, inf, inf, inf, 39, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf]$[14, 3, 31, inf, inf, 27, 39, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf]$
+
+Adding Element 42 $[14, 3, 31, inf, inf, 27, 39, inf, inf, inf, inf, inf, inf, inf, 42, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf]$[31, 14, 39, 3, 27, inf, 42, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf]$
+
+Adding Element 55 $[31, 14, 39, 3, 27, inf, 42, inf, inf, inf, inf, inf, inf, inf, 55, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf]$[31, 14, 42, 3, 27, 39, 55, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf]$
+
+Adding Element 70 $[31, 14, 42, 3, 27, 39, 55, inf, inf, inf, inf, inf, inf, inf, 70, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf]$[31, 14, 42, 3, 27, 39, 55, inf, inf, inf, inf, inf, inf, inf, 70, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf]$
+
+Adding Element 74 $[31, 14, 42, 3, 27, 39, 55, inf, inf, inf, inf, inf, inf, inf, 70, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, 74, inf]$[31, 14, 42, 3, 27, 39, 70, inf, inf, inf, inf, inf, inf, 55, 74, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf]$
+
+Adding Element 81 $[31, 14, 42, 3, 27, 39, 70, inf, inf, inf, inf, inf, inf, 55, 74, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, 81, inf]$[31, 14, 70, 3, 27, 42, 74, inf, inf, inf, inf, 39, 55, inf, 81, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf]$
+
+Adding Element 85 $[31, 14, 70, 3, 27, 42, 74, inf, inf, inf, inf, 39, 55, inf, 81, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, 85, inf]$[31, 14, 70, 3, 27, 42, 81, inf, inf, inf, inf, 39, 55, 74, 85, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf]$
+
+Adding Element 93 $[31, 14, 70, 3, 27, 42, 81, inf, inf, inf, inf, 39, 55, 74, 85, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, 93, inf]$[70, 31, 81, 14, 42, 74, 85, 3, 27, 39, 55, inf, inf, inf, 93, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf]$
+
+Adding Element 98 $[70, 31, 81, 14, 42, 74, 85, 3, 27, 39, 55, inf, inf, inf, 93, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, 98, inf]$[70, 31, 81, 14, 42, 74, 93, 3, 27, 39, 55, inf, inf, 85, 98, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf, inf]$

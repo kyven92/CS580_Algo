@@ -1,0 +1,28 @@
+A,B,K
+B,C,A
+C,B,D
+D,C,K,X
+E,H,I,X
+F,X
+G, t
+H,E,O,Z
+I,E,N,n
+J,K,L,n
+K,A,D,J
+L,Y,J
+M,n,N,
+N,l,Z,M
+O,T,H,h
+P,S,Y,h
+Q,Z
+R,h
+S ,Y,U,P
+T,O,U,V
+U,S,t,T
+V,T
+X ,F,D,E
+Y,S,P,L
+Z, Q,H
+t,w,G,U
+n,J,l,M,N
+h,P,O,R
